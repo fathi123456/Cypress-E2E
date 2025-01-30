@@ -1,5 +1,5 @@
 import { registerPage } from "../../pages/RegisterPage"
-import RegisterPage from '../../support/pages/RegisterPage';
+
 
 
 const registerObj = new registerPage()
