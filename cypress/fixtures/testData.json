@@ -1,0 +1,16 @@
+{
+    "login": 
+    {
+      "username": "test001@sfr.fr",
+      "password": "Test@123"
+    },
+    "product": 
+    {
+      "productName": "MacBook"
+    },
+    "message":
+    {
+      "successMessage": "Success: You have added MacBook to your shopping cart!"
+    }
+    
+  }
